@@ -1,0 +1,11 @@
+{
+  "version": "2.0.0",
+  "date": "2026-10-02",
+  "notes": [ "New: Profile page with license activation (Gumroad), a 3-day trial per computer, updates and 15 accent colors", "New: one-file installer (Mr-Effect-<version>-Setup.exe) with an uninstaller and an Apps & features entry", "New: Shop button and the Mr. Effect logo in the panel", "Improved: hover previews can be switched off; delete is one click" ],
+  "mandatory": false,
+  "page": "https://github.com/theprimotionstudios/Mr.-Effect/releases/tag/v2.0.0",
+  "url": "https://github.com/theprimotionstudios/Mr.-Effect/releases/download/v2.0.0/Mr-Effect-2.0.0-Setup.exe",
+  "sha256": "4fffd4c177223990c80c3082091e3507fc64a5f7c942e7cdd0a5704d24d21a50",
+  "size": 55840924,
+  "win": { "url": "https://github.com/theprimotionstudios/Mr.-Effect/releases/download/v2.0.0/Mr-Effect-2.0.0-Setup.exe", "sha256": "4fffd4c177223990c80c3082091e3507fc64a5f7c942e7cdd0a5704d24d21a50", "size": 55840924 }
+}
